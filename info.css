@@ -1,0 +1,51 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    scroll-behavior: smooth;
+}
+
+.body3 {
+    width: 100%;
+    background-image: linear-gradient(to bottom right, #282828, rgb(50, 75, 111));
+}
+
+.wrapper3 {
+    display: flex;
+    width: 100%;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxinfo {
+    text-align: center;
+    margin-top: 100px;
+    width: 700px;
+    height: 800px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #4AFFDE;
+}
+
+h1 {
+    margin: 50px;
+    color: #0088CF;
+}
+
+.smallfont {
+    margin-top: 100px;
+    color: #4AFFDE;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 100px;
+    color: #0088CF;
+    text-shadow: #4AFFDE;
+}
+
+p {
+    color: #4AFFDE;
+    text-shadow: 5px 5px 10px #0088CF;
+}  
+
